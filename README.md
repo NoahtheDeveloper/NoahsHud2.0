@@ -1,4 +1,4 @@
-# LFSHud-V2
+# LFSHud-V2/NoahHud2.0
 Custom LFS Hud. This is a LFS Resource that will eventually contain a majority of server &amp; client side scripts. This is to compress scripts.
 (Faxes Remastered)
 **Discord**
